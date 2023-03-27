@@ -1,0 +1,22 @@
+# NAME: SomeMangas
+# AUTHOR: nakano0505
+# REPO: https://github.com/nakano0505/Mine_Clash_Rules
+# UPDATED: 2023-03-27 22:02:50
+# DOMAIN-SUFFIX: 13
+# TOTAL: 15
+payload:
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehwiki.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,hentaiverse.org
+DOMAIN-SUFFIX,hath.network
+DOMAIN-KEYWORD,nhentai
+DOMAIN-KEYWORD,copymanga
+DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,jmcomic1.onl
+DOMAIN-SUFFIX,jmcomic2.onl
+DOMAIN-SUFFIX,jmcomic.me
+DOMAIN-SUFFIX,jmcomic.onl
+DOMAIN-SUFFIX,jmcomic1.me
