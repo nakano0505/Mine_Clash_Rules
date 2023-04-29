@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,rmbgame.net
   - PROCESS-NAME,EpicWebHelper.exe
   - PROCESS-NAME,YuanShen.exe
+  - PROCESS-NAME,StarRail.exe
