@@ -43,3 +43,4 @@ payload:
   - DOMAIN-SUFFIX,nintendo.net
   - DOMAIN-SUFFIX,nintendo.nl
   - DOMAIN-SUFFIX,nintendowifi.net
+  - PROCESS-NAME,r5apex.exe
