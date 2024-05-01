@@ -10,3 +10,4 @@ payload:
   - PROCESS-NAME,YuanShen.exe
   - PROCESS-NAME,StarRail.exe
   - DOMAIN-SUFFIX,ctm.net
+  - DOMAIN-SUFFIX,app.123pan.com
