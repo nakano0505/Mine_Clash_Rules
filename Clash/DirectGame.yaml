@@ -11,3 +11,4 @@ payload:
   - PROCESS-NAME,StarRail.exe
   - DOMAIN-SUFFIX,ctm.net
   - DOMAIN-SUFFIX,app.123pan.com
+  - PROCESS-NAME,qbittorrent.exe
