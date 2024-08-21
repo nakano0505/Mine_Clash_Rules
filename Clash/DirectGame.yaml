@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-SUFFIX,steamstatic.com
+  #- DOMAIN-SUFFIX,steamcontent.com
+  #- DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamserver.net
-  - DOMAIN-SUFFIX,test.steampowered.com
-  - DOMAIN-SUFFIX,api.steampowered.com
+  #- DOMAIN-SUFFIX,test.steampowered.com
+  - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,hoyoverse.com
   - DOMAIN-SUFFIX,rmbgame.net
   - PROCESS-NAME,EpicWebHelper.exe
