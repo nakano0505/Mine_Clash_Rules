@@ -47,3 +47,5 @@ payload:
   - PROCESS-NAME,nekox.messenger
   - PROCESS-NAME,org.telegram.messenger
   - PROCESS-NAME,telegram-desktop
+  - DOMAIN-KEYWORD,themoviedb.org
+  - DOMAIN-KEYWORD,tmdb.org
