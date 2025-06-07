@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,itunes.com
   - DOMAIN-SUFFIX,me.com
   - DOMAIN-SUFFIX,mzstatic.com
+  - DOMAIN-SUFFIX,*.hos1no.monster
   - '+.a1.mzstatic.com'
   - '+.a2.mzstatic.com'
   - '+.a3.mzstatic.com'
