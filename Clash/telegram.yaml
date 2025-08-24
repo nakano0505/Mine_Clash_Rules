@@ -49,3 +49,4 @@ payload:
   - PROCESS-NAME,telegram-desktop
   - DOMAIN-KEYWORD,themoviedb.org
   - DOMAIN-KEYWORD,tmdb.org
+  - DOMAIN-KEYWORD,kiko-play-niptan.one
