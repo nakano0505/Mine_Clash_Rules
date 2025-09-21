@@ -15,4 +15,5 @@ payload:
   - DOMAIN-SUFFIX,st.dl.eccdnx.com
   - DOMAIN-SUFFIX,xz.pphimalayanrt.com
   - DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
+  - DOMAIN-SUFFIX,egdownload.fastly-edge.com
   - DOMAIN-SUFFIX,hos1no.monster
