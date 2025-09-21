@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.epicgamescdn.com
   - DOMAIN-SUFFIX,egdownload.fastly-edge.com
   - DOMAIN-SUFFIX,hos1no.monster
+  - PROCESS-NAME,EpicGamesLauncher.exe
