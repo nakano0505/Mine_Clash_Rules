@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chat.deepseek.com
   - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,auth.openai.com
