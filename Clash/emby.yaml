@@ -5,7 +5,7 @@ payload:
   - DOMAIN-KEYWORD,misakaf
   - DOMAIN-KEYWORD,embyplus
   - DOMAIN-KEYWORD,fishchips
-  - DOMAIN-KEYWORD,pilipili
+  #- DOMAIN-KEYWORD,emby.pilipiliultra
   - DOMAIN-KEYWORD,emby.pro
   - DOMAIN-KEYWORD,shenmi.link
   - DOMAIN-KEYWORD,1steam.one
