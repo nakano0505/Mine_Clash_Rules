@@ -2,6 +2,7 @@ payload:
 # Apple
 # 一般国内Apple肯定正常,不需要开代理
   - DOMAIN-KEYWORD,emby.pilipiliultra
+  - DOMAIN-KEYWORD,media.nijigem.by
   - DOMAIN,apple.comscoreresearch.com
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,akadns.net
