@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,egdownload.fastly-edge.com
   - DOMAIN-SUFFIX,hos1no.monster
   - PROCESS-NAME,EpicGamesLauncher.exe
+  - DOMAIN-SUFFIX,download.sgameglobal.com
